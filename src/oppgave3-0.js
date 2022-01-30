@@ -1,3 +1,7 @@
+/*
+Brukte til slutt mye av løsnings koden ettersom jeg ikke har kjennskap til mange Javascript properties. Skrev av, men ikke kopierte rett inn. Også gjorde notater om ting jeg skjønte av koden i egne notater
+*/
+
 // Oppgave 1
 let removeBtn = document.getElementById("remove-btn");
 removeBtn.onclick = function () {
@@ -5,8 +9,6 @@ removeBtn.onclick = function () {
   this.remove();
 };
 //endra navn på remove-btn til removeBtn i camelCase fordi bindestreken i remove-btn ga meg vansker + tok utgangspunkt i denne snippeten http://jsfiddle.net/4WGRP/
-
-//Brukte til slutt mye av løsnings koden ettersom jeg ikke har kjennskap til mange Javascript properties. Skrev av, men ikke kopierte rett inn. Også gjorde notater om ting jeg skjønte av koden i egne notater
 
 // Oppgave 2
 let textToChange = document.getElementById("change");
