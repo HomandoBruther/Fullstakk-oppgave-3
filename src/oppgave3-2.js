@@ -1,4 +1,6 @@
-//Hjelpe funksjoner
+/*
+Fikk hjelp av Yahye Abdi med oppgaven. 
+*/
 
 //selektor funksjon
 const id = (select) => {
